@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My First Project</title>
+    </head>
+
+    <body>
+        <h1>Odin Recipes</h1>
+        <h2><p><strong><a href="./recipes/smoked_chicken.html" target="_blank" rel="noreferrer">Smoked Chicken</a></strong></p></h2>
+        
+        <h2><p><strong><a href="./recipes/goulash.html" target="_blank" rel="noreferrer">Goulash</a></strong></p></h2>
+
+
+    </body>
+</html>
